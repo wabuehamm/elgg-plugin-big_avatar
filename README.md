@@ -7,3 +7,7 @@ Big Avatar is an Elgg plugin, that displays a larger version of a user's avatar 
 ## Requirements
 
 * Elgg 2.3
+
+## Development
+
+Please see our [contribution guidelines](https://github.com/wabuehamm/elgg-plugin-big_avatar/blob/master/CONTRIBUTING.md)
