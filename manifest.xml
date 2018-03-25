@@ -3,7 +3,7 @@
         <name>Big Avatar plugin</name>
         <author>Westfaelische Freilichtspiele Waldbuehne Heessen</author>
         <version type="dist">1.0.1</version>
-        <description>Provide a larger view of a user's avatar</description>
+        <description>Provide a larger view of a user's avatar on profile view</description>
 
         <requires>
                 <type>elgg_release</type>
