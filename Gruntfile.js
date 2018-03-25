@@ -34,7 +34,8 @@ module.exports = function (grunt) {
 					'!package.json',
 					'!Gruntfile.js',
 					'!**/.idea*',
-					'!*.iml'
+					'!big_avatar.iml',
+					'!build/**'
 				],
 				dest: 'build/',
 				expand: true
