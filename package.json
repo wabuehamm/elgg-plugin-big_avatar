@@ -4,8 +4,8 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:wabuehann/elgg-plugin-big_avatar.git",
-		"owner": "wabuehmann",
+		"url": "git@github.com:wabuehamm/elgg-plugin-big_avatar.git",
+		"owner": "wabuehamm",
 		"repo": "elgg-plugin-big_avatar"
 	},
 	"devDependencies": {
