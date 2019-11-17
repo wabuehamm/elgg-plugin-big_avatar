@@ -1,5 +1,5 @@
 var BigAvatar = function () {
-    this._bigAvatarSmallAvatar = $('.elgg-avatar-medium');
+    this._bigAvatarSmallAvatar = $('.elgg-avatar-large');
     this._bigAvatarScreen = $('#bigAvatarScreen')
     this._bigAvatar = $('#bigAvatar')
     this._bigAvatarWidth = this._bigAvatar.width()
