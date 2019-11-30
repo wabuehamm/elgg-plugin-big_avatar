@@ -1,0 +1,20 @@
+{
+  "name": "wabuehamm/big_avatar",
+  "description": "Provide a larger view of a user's avatar on profile view",
+  "type": "elgg-plugin",
+  "keywords": [
+    "elgg",
+    "plugin"
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/wabuehamm/elgg-plugin-big_avatar",
+    "issues": "https://github.com/wabuehamm/elgg-plugin-big_avatar/issues"
+  },
+  "require": {
+    "composer/installers": "^1.0.8"
+  },
+  "conflict": {
+    "elgg/elgg": "<3.0"
+  }
+}
