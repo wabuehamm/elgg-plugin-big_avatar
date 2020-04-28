@@ -1,3 +1,14 @@
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/wabuehamm/elgg-plugin-big_avatar/compare/2.0.0...v2.0.1) (2020-04-28)
+
+
+### Features
+
+* Composer support ([61337e0](https://github.com/wabuehamm/elgg-plugin-big_avatar/commit/61337e0))
+* Productions in seasons ([6f79c06](https://github.com/wabuehamm/elgg-plugin-big_avatar/commit/6f79c06))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/wabuehamm/elgg-plugin-big_avatar/compare/1.0.1...v2.0.0) (2019-11-30)
 
