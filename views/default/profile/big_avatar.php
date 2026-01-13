@@ -1,6 +1,6 @@
 <?php
 
-elgg_require_js('js/big_avatar');
+elgg_import_esm('js/big_avatar');
 
 $user = elgg_get_page_owner_entity();
 
