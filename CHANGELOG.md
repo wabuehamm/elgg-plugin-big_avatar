@@ -1,3 +1,18 @@
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/wabuehamm/elgg-plugin-big_avatar/compare/2.0.1...v3.0.0) (2026-09-19)
+
+
+### Features
+
+* Modifications for Elgg 6 ([2aaab72](https://github.com/wabuehamm/elgg-plugin-big_avatar/commit/2aaab72))
+
+
+### BREAKING CHANGES
+
+* Doesn't work for Elgg versions below 6
+
+
+
 <a name="2.0.1"></a>
 ## [2.0.1](https://github.com/wabuehamm/elgg-plugin-big_avatar/compare/2.0.0...v2.0.1) (2020-04-28)
 
